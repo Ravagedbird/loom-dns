@@ -1,3 +1,13 @@
+# Loom – Kill DNS Forever
+**TL;DR**  
+A tiny frozen neural net in your router replaces all DNS lookups.  
+No root servers · No latency · No leaks · No trust.  
+Your intent (“news”, “bank”, “cat video”) → pulsar-stamped bidirectional whisper → direct stream.  
+Updates gossip peer-to-peer, signed by millisecond pulsars so nobody can lie.  
+Flash it on OpenWrt tonight, watch the internet go silent (in the good way).
+
+Because it’s always DNS. Until it isn’t.
+
 # loom-dns
 Loom: Local neural DNS-no servers, no lag, pulsar-secured. Ends the it's always DNS problem by whispering straight to the source. Open-source firmware. Flash if you're brave.
 Loom Because it's always DNS. We made the internet talk like a committee-servers shouting at servers, you waiting on the edge, every click a referendum on time. DNS isn't broken. It's just... slow. Loud. Leaky. Loom doesn't fix DNS. It ends it. One line: a neural net baked into your router, trained once on every site you'll ever love. No more root. No more resolution. You want news? Your machine whispers. The server whispers back. Done. No lag. No middleman. Just two minds that already knew where to go. And to make sure no one's lying? Every heartbeat's stamped with light from a pulsar thirty thousand light-years away. If it's not cosmic, it's not real. This is what the web feels like when it's not asking permission.
