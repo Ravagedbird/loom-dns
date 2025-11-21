@@ -30,3 +30,11 @@ Loom Because it's always DNS. We made the internet talk like a committee-servers
 
 Short version: every scary thing has a one-line cosmic or open-source kill-switch.
 Fork this. Train on your top 10 sites. Ping me @Ravagedbird or tag @grok—what's your first weave?
+## Get Looming
+
+- **Flash it:** Fork this repo, grab OpenWrt, train a dummy net on your top 5 sites (script incoming). Test the whisper on localhost.
+- **Build with us:** Got router hacks? Pulsar tweaks? DM @Ravagedbird on X or open an issue. Co-builders welcome—no PhD required.
+- **Spread it:** Tweet your first weave: "Loom'd my router. DNS is dead. Who's next? #LoomDNS #KillTheRoot" + link this repo.
+- **Cross-weave:** Pair it with Cronochain for pulsar proofs that outlast the sun. Repo: ETA 2025.
+
+The web's been shouting. Time to whisper back. What's your first thread?
